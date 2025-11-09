@@ -2,7 +2,7 @@
 AZURE IAM
 # 🔐 Microsoft Azure: Identity and Access Management (IAM)
 
-This project is based on the course **“Microsoft Azure: Identity and Access Management”** delivered by Microsoft Certified Cybersecurity Architect Expert **Bryan Li** on LinkedIn Learning. It demonstrates hands-on expertise in designing, implementing, and managing secure identity and access frameworks using **Microsoft Entra ID** (formerly Azure Active Directory).
+This project is based on the course **“Microsoft Azure: Identity and Access Management”** delivered by Microsoft Certified Cybersecurity Architect Expert **Bryan Li** on LinkedIn Learning. It demonstrates hands-on expertise in designing, implementing, and managing secure identity and access frameworks using **Microsoft Entra ID** (formerly Azure Active Directory)..
 
 ---![AZ 1](https://github.com/user-attachments/assets/9558078f-099e-43d9-ba9d-88413fcf7eef)
 
